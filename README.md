@@ -8,8 +8,10 @@ Here's a quick overview of my background and experience:
 🔍 Skills
 Proficient in HTML, CSS, and JavaScript 💻
 Familiar with Python, Java, and C# 🐍
+
 🎓 Education
 Completed high school education 🎓
+
 💻 Projects
 In this repository, you'll find a collection of my personal projects. Check them out to see my work in action! 💻
 
